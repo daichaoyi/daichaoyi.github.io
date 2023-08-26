@@ -1,14 +1,16 @@
 ---
-title: "Welcome to Jekyll"
+title: "My thinking"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Jalali, M. S., Rahmandad, H., & Ghoddusi, H. (2015). Using the method of simulated moments for system identification. Analytical Methods for Dynamic Modelers, MIT Press, 39-69.
+
+Chapter 2 Using the Method of Simulated Moments for System Identification How weight were determined by intake and other factors. This example informs us the meaning of moment simulation and using regression to estimate some complex system.
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+%To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+
 
 {% highlight ruby %}
 def print_hi(name)
