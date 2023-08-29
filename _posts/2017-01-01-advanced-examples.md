@@ -6,7 +6,7 @@ categories: media
 ---
 The Era of Lishimin was written by my Uncle Ping Wang.
 
-![book](https://github.com/daichaoyi/daichaoyi.github.io/blob/master/era_of_lishimin.jpeg)## MathJax
+![book](https://github.com/daichaoyi/daichaoyi.github.io/blob/master/era_of_lishimin.jpeg)
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
