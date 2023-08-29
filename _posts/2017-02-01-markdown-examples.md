@@ -1,12 +1,10 @@
 ---
-title:  "Markdown examples"
+title:  "Finance Knowledge"
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
-
+Which one is your volatility — Constant, Local or Stochastic?
+As an upgrade/alternative to LV model, a stochastic volatility (SV) model can produce a more realistic forward volatility surface, where the smile is almost self similar, compared to LV models which flatten out the forward volatility curve and vanish the smile. LV models assume that skew in the future will be what we see the forward skew today in local vol, whereas SV models assume the skew in the future is similar to the skew today. That’s why SV model is likely to overprice options, whereas the LV and BS models tends to underestimate options.
 
 ## Heading Two (h2)
 
