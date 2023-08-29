@@ -1,10 +1,10 @@
 ---
-title:  "Advanced examples"
+title:  "The Era of Lishimin"
 mathjax: true
 layout: post
 categories: media
 ---
-The Era of Lishimin was written by my Uncle Ping(Eric) Wang.
+The Era of Lishimin was written by my Uncle Ping Wang.
 
 ![book](https://github.com/daichaoyi/daichaoyi.github.io/blob/master/era_of_lishimin.jpeg)## MathJax
 
