@@ -38,3 +38,10 @@ solve: flip the coin to determine whether to keep that node or not. i.e., whethe
 Observe the change of loss function: 1) after adding regularization, the loss function should increase
 2) tiny loss change -> too small of a learning rate, loss turn to NaNs -> too high of a learning rate.
 
+Convolution Layers:
+The problem of too many parameters: computation and memory inefficient
+How to solve this problem? the input is only a small patch(segregate the picture into many small pathes.), it reduces to a smaller window K1*K2
+
+<img width="1082" alt="Screen Shot 2023-09-17 at 5 30 35 PM" src="https://github.com/daichaoyi/daichaoyi.github.io/assets/50822172/c17b60f6-9a90-45c3-9817-eee7b10a9753">
+
+
