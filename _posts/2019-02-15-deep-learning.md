@@ -25,7 +25,7 @@ impactful issues:
 
    
 update vilocity
-$v_i=\beta v_{i-1}+ frac{\partial L}{\partial w_{i-1}}$
+$v_i=\beta v_{i-1}+ \frac{\partial L}{\partial w_{i-1}}$
 
 
 
