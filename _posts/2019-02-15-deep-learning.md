@@ -19,7 +19,7 @@ Normalization can improve gradient flow and learning. Normalization method icclu
 Optimizer--
 impactful issues: 
 
-1. Noisy gradient estimates
+1. Noisy gradient estimates--batches, the gradient that we obtained has high variance
 2. Saddle points  we need to check the second derivatives
 3. III-conditioned loss surface
 
@@ -30,7 +30,11 @@ $v_i=\beta v_{i-1}+ \frac{\partial L}{\partial w_{i-1}}$
 
 $w_i=w_{i-1}-\alpha v_{i}$
 
+Steepest direction- use Hassian Matrix
 
+Problem: network can learn to rely strong on a few features that work really well.
+solve: flip the coin to determine whether to keep that node or not. i.e., whether to mask that node out for each iteration.
 
+Observe the change of loss function: 1) after adding regularization, the loss function should increase
+2) tiny loss change -> too small of a learning rate, loss turn to NaNs -> too high of a learning rate.
 
- 
