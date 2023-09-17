@@ -45,3 +45,7 @@ How to solve this problem? the input is only a small patch(segregate the picture
 <img width="1082" alt="Screen Shot 2023-09-17 at 5 30 35 PM" src="https://github.com/daichaoyi/daichaoyi.github.io/assets/50822172/c17b60f6-9a90-45c3-9817-eee7b10a9753">
 
 
+The intuition of convolution: take the kernel and flip it or rotating it by 180 degrees, dot that kernel with all the different image patches or locations in the image. start from upper left, dot product between the nine values in the image and the kernel, also a bias term.
+<img width="1007" alt="Screen Shot 2023-09-17 at 6 08 42 PM" src="https://github.com/daichaoyi/daichaoyi.github.io/assets/50822172/2ac6a1c1-85ff-45c1-8143-a434e1ae3b0c">
+
+
