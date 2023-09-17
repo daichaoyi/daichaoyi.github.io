@@ -28,6 +28,9 @@ update vilocity
 $v_i=\beta v_{i-1}+ \frac{\partial L}{\partial w_{i-1}}$
 
 
+$w_i=w_{i-1}-\alpha v_{i}$
+
+
 
 
  
