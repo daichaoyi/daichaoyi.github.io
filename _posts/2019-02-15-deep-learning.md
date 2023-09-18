@@ -53,6 +53,7 @@ The intuition of convolution: take the kernel and flip it or rotating it by 180 
 the pixels on the margin of the picture will never be located in the center of the kernel, therefore, we should have paddings. The stride is unit that the kernel move. 
 
 The purpose of pooling was to realize the Reduction of Dimensionality:
+For example the max pooling take the maximum value from the kernel.
 
 
 <img width="1104" alt="Screen Shot 2023-09-17 at 8 10 58 PM" src="https://github.com/daichaoyi/daichaoyi.github.io/assets/50822172/d4bf7332-91a5-424c-9f42-03f264fb5cce">
