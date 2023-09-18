@@ -58,7 +58,17 @@ For example the max pooling take the maximum value from the kernel.
 <img width="1017" alt="Screen Shot 2023-09-17 at 8 15 18 PM" src="https://github.com/daichaoyi/daichaoyi.github.io/assets/50822172/fa559444-664b-4828-9e9e-08f3fd3192bb">
 
 
+The questions I didn't get correct in quiz:
 
+1. Which of the following is correct about the dropout layer, if the activations are not scaled during training.
+
+2. which of the following parameter is required by RMRMProp but not AdaGrad
+
+3. Given an input Tensor size 10*10*1, what's the width and depth of the output Tensor, after applying a convolution operation with a square kernel of size 5, padding 1, and stride length 3
+
+4. How many learnable parameters are present in a max_pool layer of size 2*2?
+
+   
 
 
 
