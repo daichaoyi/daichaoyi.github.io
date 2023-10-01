@@ -6,8 +6,8 @@ description: 搭建个人博客
 keywords: github pages, github, personal blog
 ---
 Very useful introduction about using CUDA on Colab， especially on MacOS.
-
-
+[
+](https://www.youtube.com/watch?v=RwBOohDCdu0)
 Today's content is about the neural network architecture
 
 Initialization is extremely important: determines how statistics of outputs behave; determins how well gradients flow in the beginning of training; limit use of full capacity of the model if done improperly.
