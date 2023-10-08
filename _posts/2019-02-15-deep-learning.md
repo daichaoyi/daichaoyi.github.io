@@ -76,5 +76,5 @@ The questions I didn't get correct in quiz:
 
    
 
-
+Focal loss function: address imbalanced dataset, for example, impose more weight on the hard sample, and lower wegith on the simple sample.
 
