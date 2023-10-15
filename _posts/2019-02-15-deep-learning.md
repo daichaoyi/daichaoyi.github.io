@@ -78,3 +78,7 @@ The questions I didn't get correct in quiz:
 
 Focal loss function: address imbalanced dataset, for example, impose more weight on the hard sample, and lower wegith on the simple sample.
 
+
+Saliency map is a local gradient-based backpropagation interpretation method. Although saliency maps are mostly used for interpreting CNNs.
+For Gradcam can highlight the areas that has great contribution in classification of the image by projecting back the weights of the output on the convolutional feature maps. In Gradcam, the gradients of the target score (the logit for the objective classes) flow into the final convolutional layer. We compute the importance score based on gradients and highlight the important areas in classifications.
+
